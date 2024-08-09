@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ygg
+  - Water
+  - UI
+  - GROUND
+  - BG
+  - MID
+  - PLAYER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3925406143
+    locked: 0
+  - name: MID
+    uniqueID: 2684162327
+    locked: 0
+  - name: PLAYER
+    uniqueID: 2416792235
+    locked: 0
+  - name: GROUND
+    uniqueID: 3241415487
+    locked: 0
